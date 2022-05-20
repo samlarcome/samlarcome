@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sam Larcome</h1>
-<h3 align="center">I am a full time student at the University of Connecticut</h3>
+<h1 align="left">Hi 👋, I'm Sam Larcome</h1>
+<h3 align="left">I am a full time student at the University of Connecticut</h3>
 
 - 🔭 I’m currently working on **my portfolio website**
 
