@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently taking **a Full Stack Engineer course on Codecademy**
+- 🌱 I’m currently taking **a Back-End Engineer course on Codecademy**
 
-- 📫 How to reach me **samuel.larcome@uconn.edu**
+- 📫 How to reach me: **samuel.larcome@uconn.edu**
 
 - ⚡ Fun fact **I love Star Wars and playing video games**
+
+- :hospital: I am currently interning at **Medicus Healthcare Solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
